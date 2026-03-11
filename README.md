@@ -1,7 +1,7 @@
 # Password-Strength-Checker
 A Python-based tool that analyzes passwords and evaluates their strength based on security rules like length, character variety, and complexity.
 
-password=input('Enter Password')
+"""password=input('Enter Password')
 has_upper= False
 has_lower= False
 has_digit= False
@@ -34,5 +34,5 @@ if score <= 2:
 elif score <= 4:
     print("Medium Password")
 else:
-    print("Strong Password")
+    print("Strong Password")"""
     
